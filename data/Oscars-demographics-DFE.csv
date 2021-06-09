@@ -1,0 +1,442 @@
+person,race_ethnicity,religion,sexual_orientation,year_of_award,award,movie
+Lewis Milestone,White,Na,Straight,1927,Best Director,Two Arabian Knights
+Frank Lloyd,White,Na,Straight,1930,Best Director,The Divine Lady
+Lewis Milestone,White,Na,Straight,1931,Best Director,All Quiet on the Western Front
+Norman Taurog,White,Na,Straight,1932,Best Director,Skippy
+Frank Borzage,White,Roman Catholic,Straight,1933,Best Director,Bad Girl
+Frank Lloyd,White,Na,Straight,1934,Best Director,Cavalcade
+Frank Capra,White,Roman Catholic,Straight,1935,Best Director,It Happened One Night
+John Ford,White,Roman Catholic,Bisexual,1936,Best Director,The Informer
+Frank Capra,White,Roman Catholic,Straight,1937,Best Director,Mr. Deeds Goes to Town
+Leo McCarey,White,Na,Straight,1938,Best Director,The Awful Truth
+Frank Capra,White,Roman Catholic,Straight,1939,Best Director,You Can't Take It with You
+Victor Fleming,White,Na,Straight,1940,Best Director,Gone with the Wind
+John Ford,White,Roman Catholic,Bisexual,1941,Best Director,The Grapes of Wrath
+John Ford,White,Roman Catholic,Bisexual,1942,Best Director,How Green Was My Valley
+William Wyler,White,Na,Straight,1943,Best Director,Mrs. Miniver
+Michael Curtiz,White,Na,Straight,1944,Best Director,Casablanca
+Leo McCarey,White,Na,Straight,1945,Best Director,Going My Way
+Jerome Robbins,White,Jewish,Gay,1962,Best Director,West Side Story
+Billy Wilder,White,Jewish,Straight,1946,Best Director,The Lost Weekend
+William Wyler,White,Na,Straight,1947,Best Director,The Best Years of Our Lives
+Elia Kazan,White,Na,Straight,1948,Best Director,Gentleman's Agreement
+John Huston,White,Na,Straight,1949,Best Director,The Treasure of the Sierra Madre
+Joseph L. Mankiewicz,White,Jewish,Straight,1950,Best Director,A Letter to Three Wives
+Joseph L. Mankiewicz,White,Jewish,Straight,1951,Best Director,All About Eve
+George Stevens,White,Na,Straight,1952,Best Director,A Place in the Sun
+John Ford,White,Roman Catholic,Bisexual,1953,Best Director,The Quiet Man
+Fred Zinnemann,White,Jewish,Straight,1954,Best Director,From Here to Eternity
+Elia Kazan,White,Na,Straight,1955,Best Director,On the Waterfront
+Delbert Mann,White,Presbyterian,Straight,1956,Best Director,Marty
+George Stevens,White,Na,Straight,1957,Best Director,Giant
+David Lean,White,Na,Straight,1958,Best Director,The Bridge on the River Kwai
+Vincente Minnelli,White,Na,Bisexual,1959,Best Director,Gigi
+William Wyler,White,Na,Straight,1960,Best Director,Ben-Hur
+Billy Wilder,White,Jewish,Straight,1961,Best Director,The Apartment
+Robert Wise,White,Na,Straight,1961,Best Director,West Side Story
+David Lean,White,Na,Straight,1963,Best Director,Lawrence of Arabia
+Tony Richardson,White,Na,Bisexual,1964,Best Director,Tom Jones
+George Cukor,White,Na,Gay,1965,Best Director,My Fair Lady
+Robert Wise,White,Na,Straight,1966,Best Director,The Sound of Music
+Fred Zinnemann,White,Jewish,Straight,1967,Best Director,A Man for All Seasons
+Mike Nichols,White,Jewish,Straight,1968,Best Director,The Graduate
+Joel Coen,White,Jewish,Straight,2008,Best Director,No Country for Old Men
+Carol Reed,White,Na,Straight,1969,Best Director,Oliver!
+John Schlesinger,White,Na,Gay,1969,Best Director,Midnight Cowboy
+Franklin J. Schaffner,White,Na,Straight,1970,Best Director,Patton
+William Friedkin,White,Jewish,Straight,1972,Best Director,The French Connection
+Bob Fosse,White,Na,Straight,1973,Best Director,Cabaret
+George Roy Hill,White,Na,Straight,1973,Best Director,The Sting
+Francis Ford Coppola,White,Na,Straight,1975,Best Director,The Godfather Part II
+Milos Forman,White,Na,Straight,1976,Best Director,One Flew over the Cuckoo's Nest
+John G. Avildsen,White,Na,Straight,1976,Best Director,Rocky
+Woody Allen,White,Jewish,Straight,1978,Best Director,Annie Hall
+Michael Cimino,White,Na,Straight,1979,Best Director,The Deer Hunter
+Robert Benton,White,Na,Straight,1980,Best Director,Kramer vs. Kramer
+Robert Redford,White,Na,Straight,1980,Best Director,Ordinary People
+Warren Beatty,White,Baptist,Straight,1981,Best Director,Reds
+Richard Attenborough,White,Na,Straight,1982,Best Director,Gandhi
+James L. Brooks,White,Na,Straight,1983,Best Director,Terms of Endearment
+Milos Forman,White,Na,Straight,1985,Best Director,Amadeus
+Sydney Pollack,White,Jewish,Straight,1986,Best Director,Out of Africa
+Oliver Stone,White,Atheist,Straight,1990,Best Director,Platoon
+Bernardo Bertolucci,White,Na,Straight,1988,Best Director,The Last Emperor
+Barry Levinson,White,Jewish,Straight,1989,Best Director,Rain Man
+Oliver Stone,White,Atheist,Straight,1990,Best Director,Born on the Fourth of July
+Kevin Costner,White,Baptist,Straight,1991,Best Director,Dances with Wolves
+Jonathan Demme,White,Na,Straight,1992,Best Director,The Silence of the Lambs
+Clint Eastwood,White,Na,Straight,1993,Best Director,Unforgiven
+Steven Spielberg,White,Jewish,Straight,1994,Best Director,Schindler's List
+Robert Zemeckis,White,Roman Catholic,Straight,1995,Best Director,Forrest Gump
+Mel Gibson,White,Roman Catholic,Straight,1996,Best Director,Braveheart
+Anthony Minghella,White,Na,Straight,1997,Best Director,The English Patient
+James Cameron,White,Atheist,Straight,1998,Best Director,Titanic
+Steven Spielberg,White,Jewish,Straight,1999,Best Director,Saving Private Ryan
+Sam Mendes,White,Na,Straight,2000,Best Director,American Beauty
+Steven Soderbergh,White,Atheist,Straight,2001,Best Director,Traffic
+Ron Howard,White,Na,Straight,2002,Best Director,A Beautiful Mind
+Roman Polanski,White,See Note,Straight,2003,Best Director,The Pianist
+Peter Jackson,White,Na,Straight,2004,Best Director,The Lord of the Rings: Return of the King
+Clint Eastwood,White,Na,Straight,2005,Best Director,Million Dollar Baby
+Ang Lee,Asian,Na,Straight,2006,Best Director,Brokeback Mountain
+Martin Scorsese,White,Roman Catholic,Straight,2007,Best Director,The Departed
+Ethan Coen,White,Jewish,Straight,2008,Best Director,No Country for Old Men
+Danny Boyle,White,Roman Catholic,Straight,2009,Best Director,Slumdog Millionaire
+Kathryn Bigelow,White,Na,Straight,2009,Best Director,The Hurt Locker
+Tom Hooper,White,Na,Na,2011,Best Director,The King's Speech
+Michel Hazanavicius,White,Jewish,Straight,2012,Best Director,The Artist
+Ang Lee,Asian,Na,Straight,2013,Best Director,Life of Pi
+Emil Jannings,White,Na,Bisexual,1929,Best Actor,The Last Command
+Warner Baxter,White,Na,Straight,1930,Best Actor,In Old Arizona
+George Arliss,White,Na,Straight,1930,Best Actor,Desraeli
+Lionel Barrymore,White,Roman Catholic,Straight,1931,Best Actor,A Free Soul
+Wallace Beery,White,Na,Straight,1932,Best Actor,The Champ
+Charles Laughton,White,Roman Catholic,Gay,1934,Best Actor,The Private Life of Henry VIII
+Clark Gable,White,Na,Straight,1935,Best Actor,It Happened One Night
+Victor McLaglen,White,Anglican/episcopalian,Straight,1936,Best Actor,The Informer
+Paul Muni,White,Jewish,Straight,1937,Best Actor,The Story of Louis Pasteur
+Spencer Tracy,White,Roman Catholic,Straight,1938,Best Actor,Captains Courageous
+Spencer Tracy,White,Roman Catholic,Straight,1939,Best Actor,Boys Town
+Robert Donat,White,Na,Straight,1940,Best Actor,Goodbye Mr. Chips
+Jimmy Stewart,White,Presbyterian,Straight,1941,Best Actor,The Philadelphia Story
+Gary Cooper,White,Roman Catholic,Straight,1942,Best Actor,Sergeant York
+James Cagney,White,Roman Catholic,Straight,1943,Best Actor,Yankee Doodle Dandy
+Paul Lukas,White,Na,Straight,1944,Best Actor,Watch on the Rhine
+Bing Crosby,White,Roman Catholic,Straight,1945,Best Actor,Going My Way
+Ray Milland,White,Na,Straight,1946,Best Actor,The Lost Weekend
+Fredric March,White,Na,Straight,1947,Best Actor,The Best Years of Our Lives
+Ronald Colman,White,Na,Straight,1948,Best Actor,A Double Life
+Laurence Olivier,White,Na,Bisexual,1949,Best Actor,Hamlet
+Broderick Crawford,White,Na,Straight,1950,Best Actor,All The King's Men
+Jose Ferrer,Hispanic,Na,Straight,1951,Best Actor,Cyrano de Bergerac
+Humphrey Bogart,White,Na,Straight,1952,Best Actor,The Africa Queen
+Gary Cooper,White,Roman Catholic,Straight,1953,Best Actor,High Noon
+William Holden,White,Na,Straight,1954,Best Actor,Stalag 17
+Marlon Brando,White,Deist,Bisexual,1955,Best Actor,On the Waterfront
+Ernest Borgnine,White,Na,Straight,1956,Best Actor,Marty
+Yul Brynner,White,Na,Straight,1957,Best Actor,The King and I
+Alec Guinness,White,Roman Catholic,Bisexual,1958,Best Actor,The Bridge on the River Kwai
+David Niven,White,Na,Straight,1959,Best Actor,Separate Tables
+Charlton Heston,White,Protestant,Straight,1960,Best Actor,Ben-hur
+Burt Lancaster,White,Protestant,Straight,1961,Best Actor,Elmer Gantry
+Maximilian Schell,White,Na,Straight,1962,Best Actor,Judgement at Nuremberg
+Gregory Peck,White,Roman Catholic,Straight,1963,Best Actor,To Kill a Mockingbird
+Sidney Poitier,Black,Deist,Straight,1964,Best Actor,Lilies of the Field
+Rex Harrison,White,Na,Straight,1965,Best Actor,My Fair Lady
+Lee Marvin,White,Na,Straight,1966,Best Actor,Cat Ballou
+Paul Scofield,White,Na,Straight,1967,Best Actor,A Man For All Seasons
+Rod Steiger,White,Lutheran,Straight,1968,Best Actor,In the Heat of the Night
+Cliff Robertson,White,Na,Straight,1969,Best Actor,Charly
+John Wayne,White,Roman Catholic,Straight,1970,Best Actor,True Grit
+George C. Scott,White,Na,Straight,1971,Best Actor,Patton
+Gene Hackman,White,Na,Straight,1972,Best Actor,The French Connection
+Marlon Brando,White,Deist,Bisexual,1973,Best Actor,The Godfather
+Jack Lemmon,White,Roman Catholic,Straight,1974,Best Actor,Save the Tiger
+Art Carney,White,Na,Straight,1975,Best Actor,Harry and Tonto
+Jack Nicholson,White,Atheist,Straight,1976,Best Actor,One Flew Over the Cuckoo's Nest
+Peter Finch,White,Na,Straight,1977,Best Actor,Network
+Richard Dreyfuss,White,Jewish,Straight,1978,Best Actor,The Goodbye Girl
+Jon Voight,White,Roman Catholic,Straight,1979,Best Actor,Coming Home
+Dustin Hoffman,White,Jewish,Straight,1980,Best Actor,Kramer vs. Kramer
+Robert De Niro,White,Roman Catholic,Straight,1981,Best Actor,Raging Bull
+Henry Fonda,White,Na,Straight,1982,Best Actor,On Golden Pond
+Ben Kingsley,Multiracial,Quaker,Straight,1983,Best Actor,Gandhi
+Robert Duvall,White,Na,Straight,1984,Best Actor,Tender Mercies
+F. Murray Abraham,Middle Eastern,Na,Straight,1985,Best Actor,Amadeus
+William Hurt,White,Lutheran,Straight,1986,Best Actor,Kiss of the Spider Woman
+Paul Newman,White,Jewish,Straight,1987,Best Actor,The Color of Money
+Michael Douglas,White,Jewish,Straight,1988,Best Actor,Wall Street
+Dustin Hoffman,White,Jewish,Straight,1989,Best Actor,Rainman
+Daniel Day-Lewis,White,Na,Straight,1990,Best Actor,My Left Foot
+Jeremy Irons,White,Na,Straight,1991,Best Actor,Reversal of Fortune
+Anthony Hopkins,White,Na,Straight,1992,Best Actor,Silence of the Lambs
+Al Pacino,White,Roman Catholic,Straight,1993,Best Actor,Scent of a Woman
+Tom Hanks,White,Born-Again Christian,Straight,1994,Best Actor,Philadelphia
+Tom Hanks,White,Born-Again Christian,Straight,1995,Best Actor,Forrest Gump
+Nicolas Cage,White,Roman Catholic,Straight,1996,Best Actor,Leaving Las Vegas
+Geoffrey Rush,White,Na,Straight,1997,Best Actor,Shine
+Jack Nicholson,White,Atheist,Straight,1997,Best Actor,As Good as It Gets
+Roberto Benigni,White,Na,Straight,1999,Best Actor,Life is Beautiful
+Kevin Spacey,White,Na,Matter of Dispute,2000,Best Actor,American Beauty
+Russell Crowe,White,Na,Straight,2001,Best Actor,Gladiator
+Denzel Washington,Black,Protestant,Straight,2002,Best Actor,Training Day
+Adrien Brody,White,Jewish,Straight,2003,Best Actor,The Pianist
+Sean Penn,White,Roman Catholic,Straight,2003,Best Actor,Mystic River
+Jamie Foxx,Black,Baptist,Straight,2005,Best Actor,Ray
+Philip Seymour Hoffman,White,Na,Straight,2006,Best Actor,Capote
+Forest Whitaker,Black,Na,Straight,2007,Best Actor,The Last King of Scotland
+Daniel Day-Lewis,White,Na,Straight,2008,Best Actor,There Will Be Blood
+Sean Penn,White,Roman Catholic,Straight,2009,Best Actor,Milk
+Jeff Bridges,White,Lutheran,Straight,2010,Best Actor,Crazy Heart
+Colin Firth,White,Na,Straight,2011,Best Actor,The King's Speech
+Jean Dujardin,White,Na,Straight,2012,Best Actor,The Artist
+Daniel Day-Lewis,White,Na,Straight,2013,Best Actor,Lincoln
+Matthew McConaughey,White,Na,Straight,2014,Best Actor,Dallas Buyers Club
+Walter Brennan,White,Na,Straight,1938,Best Supporting Actor,Come and Get It
+Joseph Schildkraut,White,Na,Straight,1938,Best Supporting Actor,The Life of Emile Zola
+Walter Brennan,White,Na,Straight,1939,Best Supporting Actor,Kentucky
+Thomas Mitchell,White,Na,Straight,1940,Best Supporting Actor,Stagecoach
+Walter Brennan,White,Na,Straight,1941,Best Supporting Actor,The Westerner
+Donald Crisp,White,Na,Straight,1942,Best Supporting Actor,How Green Was My Valley
+Van Heflin,White,Na,Straight,1943,Best Supporting Actor,Johnny Eager
+Charles Coburn,White,Na,Straight,1944,Best Supporting Actor,The More the Merrier
+Barry Fitzgerald,White,Protestant,Na,1945,Best Supporting Actor,Going My Way
+James Dunn,White,Na,Straight,1946,Best Supporting Actor,A Tree Grows in Brooklyn
+Harold Russell,White,Na,Straight,1947,Best Supporting Actor,The Best Years of Our Lives
+Edmund Gwenn,White,Na,Na,1948,Best Supporting Actor,Miracle on 34th Street
+Walter Huston,White,Na,Straight,1949,Best Supporting Actor,The Treasure of the Sierra Madre
+Dean Jagger,White,Na,Straight,1950,Best Supporting Actor,Twelve O'Clock High
+George Sanders,White,Na,Straight,1951,Best Supporting Actor,All About Eve
+Karl Malden,White,Na,Straight,1952,Best Supporting Actor,A Streetcar Named Desire
+Anthony Quinn,Hispanic,Na,Straight,1953,Best Supporting Actor,Viva Zapata!
+Frank Sinatra,White,Na,Straight,1954,Best Supporting Actor,From Here to Eternity
+Edmond O'Brien,White,Roman Catholic,Straight,1955,Best Supporting Actor,The Barefoot Contessa
+Jack Lemmon,White,Roman Catholic,Straight,1956,Best Supporting Actor,Mister Roberts
+Anthony Quinn,Hispanic,Na,Straight,1957,Best Supporting Actor,Lust for Life
+Red Buttons,White,Jewish,Straight,1958,Best Supporting Actor,Sayonara
+Burl Ives,White,Na,Straight,1959,Best Supporting Actor,The Big Country
+Hugh Griffith,White,Na,Na,1960,Best Supporting Actor,Ben-Hur
+Peter Ustinov,White,Na,Straight,1961,Best Supporting Actor,Spartacus
+George Chakiris,White,Na,Gay,1962,Best Supporting Actor,West Side Story
+"Ed Begley, Sr.",White,Na,Straight,1963,Best Supporting Actor,Sweet Bird of Youth
+Melvyn Douglas,White,Jewish,Straight,1964,Best Supporting Actor,Hud
+Peter Ustinov,White,Na,Straight,1965,Best Supporting Actor,Topkapi
+Martin Balsam,White,Na,Straight,1966,Best Supporting Actor,A Thousand Clowns
+Walter Matthau,White,Jewish,Straight,1967,Best Supporting Actor,The Fortune Cookie
+George Kennedy,White,Na,Straight,1968,Best Supporting Actor,Cool Hand Luke
+Jack Albertson,White,Na,Na,1969,Best Supporting Actor,The Subject Was Roses
+Gig Young,White,Na,Straight,1970,Best Supporting Actor,"They Shoot Horses, Don't They?"
+John Mills,White,Na,Straight,1971,Best Supporting Actor,Ryan's Daughter
+Ben Johnson,White,Na,Straight,1972,Best Supporting Actor,The Last Picture Show
+Joel Grey,White,Jewish,Gay,1973,Best Supporting Actor,Cabaret
+John Houseman,White,Na,Straight,1974,Best Supporting Actor,The Paper Chase
+Robert De Niro,White,Roman Catholic,Straight,1975,Best Supporting Actor,The Godfather Part II
+George Burns,White,Jewish,Straight,1976,Best Supporting Actor,The Sunshine Boys
+Jason Robards,White,Na,Straight,1977,Best Supporting Actor,All the President's Men
+Jason Robards,White,Na,Straight,1978,Best Supporting Actor,Julia
+Christopher Walken,White,Na,Straight,1979,Best Supporting Actor,The Deer Hunter
+Melvyn Douglas,White,Jewish,Straight,1980,Best Supporting Actor,Being There
+Timothy Hutton,White,Na,Straight,1981,Best Supporting Actor,Oridnary People
+John Gielgud,White,Na,Gay,1982,Best Supporting Actor,Arthur
+"Lou Gossett, Jr.",Black,Na,Straight,1983,Best Supporting Actor,An Officer and a Gentleman
+Jack Nicholson,White,Atheist,Straight,1984,Best Supporting Actor,Terms of Endearment
+Haing S. Ngor,Asian,Buddhist,Straight,1985,Best Supporting Actor,The Killing Fields
+Don Ameche,White,Roman Catholic,Straight,1986,Best Supporting Actor,Cocoon
+Michael Caine,White,Na,Straight,1987,Best Supporting Actor,Hannah and Her Sisters
+Sean Connery,White,Roman Catholic,Straight,1988,Best Supporting Actor,The Untouchables
+Kevin Kline,White,Roman Catholic,Straight,1989,Best Supporting Actor,A Fish Called Wanda
+Denzel Washington,Black,Protestant,Straight,1990,Best Supporting Actor,Glory
+Joe Pesci,White,Na,Straight,1991,Best Supporting Actor,Good Fellas
+Jack Palance,White,Na,Straight,1992,Best Supporting Actor,City Slickers
+Gene Hackman,White,Na,Straight,1993,Best Supporting Actor,Unforgiven
+Tommy Lee Jones,White,Na,Straight,1994,Best Supporting Actor,The Fugitive
+Martin Landau,White,Jewish,Straight,1995,Best Supporting Actor,Ed Wood
+Kevin Spacey,White,Na,Matter of Dispute,1996,Best Supporting Actor,The Usual Suspects
+"Cuba Gooding, Jr.",Black,Na,Straight,1997,Best Supporting Actor,Jerry Maguire
+Robin Williams,White,Anglican/episcopalian,Straight,1998,Best Supporting Actor,Good Will Hunting
+James Coburn,White,Na,Straight,1999,Best Supporting Actor,Affliction
+Michael Caine,White,Na,Straight,2000,Best Supporting Actor,The Cider House Rules
+Benicio Del Toro,Hispanic,Na,Straight,2001,Best Supporting Actor,Traffic
+Jim Broadbent,White,Na,Straight,2002,Best Supporting Actor,Iris
+Chris Cooper,White,Na,Straight,2003,Best Supporting Actor,Adaptation
+Tim Robbins,White,Roman Catholic,Straight,2004,Best Supporting Actor,Mystic River
+Morgan Freeman,Black,Na,Straight,2005,Best Supporting Actor,Million Dollar Baby
+George Clooney,White,Na,Straight,2006,Best Supporting Actor,Syriana
+Alan Arkin,White,Jewish,Straight,2007,Best Supporting Actor,Little Miss Sunshine
+Javier Bardem,Hispanic,Na,Straight,2008,Best Supporting Actor,No Country for Old Men
+Heath Ledger,White,Na,Straight,2009,Best Supporting Actor,The Dark Knight
+Christoph Waltz,White,Na,Straight,2010,Best Supporting Actor,Inglourious Basterds
+Christian Bale,White,Na,Straight,2011,Best Supporting Actor,The Fighter
+Christopher Plummer,White,Na,Straight,2012,Best Supporting Actor,Beginning
+Christoph Waltz,White,Na,Straight,2013,Best Supporting Actor,Django Unchained
+Jared Leto,White,Na,Straight,2014,Best Supporting Actor,Dallas Buyers Club
+Janet Gaynor,White,Na,Straight,1929,Best Actress,7th Heaven
+Mary Pickford,White,Na,Straight,1930,Best Actress,Coquette
+Norma Shearer,White,Na,Straight,1930,Best Actress,The Divorcee
+Marie Dressler,White,Na,Straight,1931,Best Actress,Min and Bill
+Helen Hayes,White,Na,Straight,1932,Best Actress,The Sin of Madelon Claudet
+Katharine Hepburn,White,Atheist,Bisexual,1934,Best Actress,Morning Glory
+Claudette Colbert,White,Na,Straight,1935,Best Actress,It Happened One Night
+Bette Davis,White,Na,Straight,1936,Best Actress,Dangerous
+Luise Rainer,White,Jewish,Straight,1937,Best Actress,The Great Ziegfeld
+Luise Rainer,White,Jewish,Straight,1938,Best Actress,The Good Earth
+Bette Davis,White,Na,Straight,1939,Best Actress,Jezebel
+Vivien Leigh,White,Roman Catholic,Straight,1940,Best Actress,Gone with the Wind
+Ginger Rogers,White,Christian Science,Straight,1941,Best Actress,Kitty Foyle
+Joan Fontaine,White,Na,Straight,1940,Best Actress,Suspicion
+Greer Garson,White,Na,Straight,1942,Best Actress,Mrs. Miniver
+Jennifer Jones,White,Roman Catholic,Straight,1944,Best Actress,The Song of Bernadette
+Ingrid Bergman,White,Na,Straight,1945,Best Actress,Gaslight
+Joan Crawford,White,Christian Science,Bisexual,1946,Best Actress,Mildred Pierce
+Olivia de Havilland,White,Na,Straight,1947,Best Actress,To Each His Own
+Loretta Young,White,Roman Catholic,Straight,1948,Best Actress,The Farmer's Daughter
+Jane Wyman,White,Roman Catholic,Straight,1949,Best Actress,Johnny Belinda
+Olivia de Havilland,White,Na,Straight,1950,Best Actress,The Heiress
+Judy Holliday,White,Na,Straight,1951,Best Actress,Born Yesterday
+Vivien Leigh,White,Roman Catholic,Straight,1952,Best Actress,A Streetcar Named Desire
+Shirley Booth,White,Na,Straight,1953,Best Actress,"Come Back, Little Sheba"
+Audrey Hepburn,White,Christian Science,Straight,1954,Best Actress,Roman Holiday
+Grace Kelly,White,Roman Catholic,Straight,1955,Best Actress,The Country Girl
+Anna Magnani,White,Na,Straight,1956,Best Actress,The Rose Tattoo
+Ingrid Bergman,White,Na,Straight,1957,Best Actress,Anastasia
+Joanne Woodward,White,Na,Straight,1958,Best Actress,The Three Faces of Eve
+Susan Hayward,White,Roman Catholic,Straight,1959,Best Actress,I Want To Live!
+Simone Signoret,White,Na,Straight,1960,Best Actress,Room at the Top
+Elizabeth Taylor,White,Jewish,Straight,1961,Best Actress,Butterfield 8
+Sophia Loren,White,Roman Catholic,Straight,1962,Best Actress,Two Women
+Anne Bancroft,White,Roman Catholic,Straight,1963,Best Actress,The Miracle Worker
+Patricia Neal,White,Roman Catholic,Straight,1964,Best Actress,Hud
+Julie Andrews,White,Na,Straight,1965,Best Actress,Mary Poppins
+Julie Christie,White,Na,Straight,1966,Best Actress,Darling
+Elizabeth Taylor,White,Jewish,Straight,1967,Best Actress,Who's Afraid of Virginia Woolf?
+Katharine Hepburn,White,Atheist,Bisexual,1968,Best Actress,Guess Who's Coming to Dinner
+Barbra Streisand,White,Jewish,Straight,1969,Best Actress,Funny Girl
+Katharine Hepburn,White,Atheist,Bisexual,1969,Best Actress,The Lion in Winter
+Maggie Smith,White,Na,Straight,1970,Best Actress,The Prime of Miss Jean Brodie
+Glenda Jackson,White,Na,Straight,1971,Best Actress,Women in Love
+Jane Fonda,White,Born-Again Christian,Straight,1972,Best Actress,Klute
+Liza Minnelli,White,Na,Na,1973,Best Actress,Cabaret
+Glenda Jackson,White,Na,Straight,1974,Best Actress,A Touch of Class
+Ellen Burstyn,White,Sufism,Straight,1975,Best Actress,Alice Doesn't Live Here Anymore
+Louise Fletcher,White,Na,Straight,1976,Best Actress,One Flew Over the Cuckoo's Nest
+Faye Dunaway,White,Roman Catholic,Straight,1977,Best Actress,Network
+Diane Keaton,White,Atheist,Straight,1978,Best Actress,Annie Hall
+Jane Fonda,White,Born-Again Christian,Straight,1979,Best Actress,Coming Home
+Sally Field,White,Na,Straight,1980,Best Actress,Norma Rae
+Sissy Spacek,White,Na,Straight,1981,Best Actress,Coal Miner's Daughter
+Katharine Hepburn,White,Atheist,Bisexual,1982,Best Actress,On Golden Pond
+Meryl Streep,White,Na,Straight,1983,Best Actress,Sophie's Choice
+Shirley MacLaine,White,Baptist,Straight,1984,Best Actress,Terms of Endearment
+Sally Field,White,Na,Straight,1985,Best Actress,Places in the Heart
+Geraldine Page,White,Na,Straight,1986,Best Actress,The Trip to Bountiful
+Marlee Matlin,White,Jewish,Straight,1987,Best Actress,Children of a Lesser God
+Cher,White,Na,Bisexual,1988,Best Actress,Moonstruck
+Jodie Foster,White,Atheist,Lesbian,1989,Best Actress,The Accused
+Jessica Tandy,White,Na,Straight,1990,Best Actress,Driving Miss Daisy
+Kathy Bates,White,Na,Straight,1991,Best Actress,Misery
+Jodie Foster,White,Atheist,Lesbian,1992,Best Actress,The Silence of the Lambs
+Emma Thompson,White,Na,Straight,1993,Best Actress,Howards End
+Holly Hunter,White,Na,Straight,1994,Best Actress,The Piano
+Jessica Lange,White,Na,Straight,1995,Best Actress,Blue Sky
+Susan Sarandon,White,Roman Catholic,Straight,1996,Best Actress,Dead Man Walking
+Frances McDormand,White,Disciples of Christ,Straight,1997,Best Actress,Fargo
+Helen Hunt,White,Na,Straight,1998,Best Actress,As Good As It Gets
+Gwyneth Paltrow,White,Jewish,Straight,1999,Best Actress,Shakespeare in Love
+Hilary Swank,White,Na,Straight,2000,Best Actress,Boys Don't Cry
+Julia Roberts,White,Hindu,Straight,2001,Best Actress,Erin Brockovich
+Halle Berry,Multiracial,Na,Straight,2002,Best Actress,Monster's Ball
+Nicole Kidman,White,Roman Catholic,Straight,2003,Best Actress,The Hours
+Charlize Theron,White,Na,Straight,2004,Best Actress,Monster
+Hilary Swank,White,Na,Straight,2005,Best Actress,Million Dollar Baby
+Reese Witherspoon,White,Na,Straight,2006,Best Actress,Walk the Line
+Helen Mirren,White,Na,Straight,2007,Best Actress,The Queen
+Marion Cotillard,White,Na,Straight,2008,Best Actress,The Passionate Life of Edith Piaf
+Kate Winslet,White,Na,Straight,2009,Best Actress,The Reader
+Sandra Bullock,White,Na,Straight,2010,Best Actress,The Blind Side
+Natalie Portman,White,Jewish,Straight,2011,Best Actress,Black Swan
+Meryl Streep,White,Na,Straight,2012,Best Actress,The Iron Lady
+Jennifer Lawrence,White,Na,Na,2013,Best Actress,Silver Linings Playbook
+Cate Blanchett,White,Na,Straight,2014,Best Actress,Blue Jasmine
+Gale Sondergaard,White,Na,Straight,1937,Best Supporting Actress,Anthony Adverse
+Alice Brady,White,Na,Straight,1938,Best Supporting Actress,In Old Chicago
+Fay Bainter,White,Na,Straight,1939,Best Supporting Actress,Jezebel
+Hattie McDaniel,Black,Christian,Matter of Dispute,1940,Best Supporting Actress,Gone with the Wind
+Jane Darwell,White,Na,Straight,1941,Best Supporting Actress,The Grapes of Wrath
+Mary Astor,White,Roman Catholic,Straight,1942,Best Supporting Actress,The Great Lie
+Teresa Wright,White,Na,Straight,1943,Best Supporting Actress,Mrs. Miniver
+Katina Paxinou,White,Na,Straight,1944,Best Supporting Actress,For Whom the Bell Tolls
+Ethel Barrymore,White,Roman Catholic,Straight,1945,Best Supporting Actress,None but the Lonely Heart
+Anne Revere,White,Na,Straight,1946,Best Supporting Actress,National Velvet
+Anne Baxter,White,Na,Straight,1947,Best Supporting Actress,The Razor's Edge
+Celeste Holm,White,Na,Straight,1948,Best Supporting Actress,Gentleman's Agreement
+Claire Trevor,White,Na,Straight,1949,Best Supporting Actress,Key Largo
+Mercedes McCambridge,White,Roman Catholic,Straight,1950,Best Supporting Actress,All the King's Men
+Josephine Hull,White,Na,Straight,1951,Best Supporting Actress,Harvey
+Kim Hunter,White,Na,Straight,1952,Best Supporting Actress,A Streetcar Named Desire
+Gloria Grahame,White,Na,Straight,1953,Best Supporting Actress,The Bad and the Beautiful
+Donna Reed,White,Na,Straight,1954,Best Supporting Actress,From Here to Eternity
+Eva Marie Saint,White,Na,Straight,1955,Best Supporting Actress,On the Waterfront
+Jo Van Fleet,White,Na,Straight,1956,Best Supporting Actress,East of Eden
+Dorothy Malone,White,Na,Straight,1957,Best Supporting Actress,Written on the Wind
+Miyoshi Umeki,Asian,Na,Straight,1958,Best Supporting Actress,Sayonara
+Wendy Hiller,White,Na,Straight,1959,Best Supporting Actress,Separate Tables
+Shelley Winters,White,Jewish,Straight,1960,Best Supporting Actress,The Diary of Anne Frank
+Shirley Jones,White,Methodist,Straight,1961,Best Supporting Actress,Elmer Gantry
+Rita Moreno,Hispanic,Na,Straight,1962,Best Supporting Actress,West Side Story
+Patty Duke,White,Roman Catholic,Straight,1963,Best Supporting Actress,The Miracle Worker
+Margaret Rutherford,White,Na,Straight,1964,Best Supporting Actress,the V.I.P.s
+Lila Kedrova,White,Na,Straight,1965,Best Supporting Actress,Zorba the Greek
+Shelley Winters,White,Jewish,Straight,1966,Best Supporting Actress,A Patch of Blue
+Sandy Dennis,White,Na,Bisexual,1967,Best Supporting Actress,Who's Afraid of Virginia Woolf?
+Estelle Parsons,White,Na,Straight,1968,Best Supporting Actress,Bonnie and Clyde
+Ruth Gordon,White,Na,Straight,1969,Best Supporting Actress,Rosemary's Baby
+Goldie Hawn,White,Buddhist,Straight,1970,Best Supporting Actress,Cactus Flower
+Helen Hayes,White,Na,Straight,1971,Best Supporting Actress,Airport
+Cloris Leachman,White,Na,Straight,1972,Best Supporting Actress,The Last Picture Show
+Eileen Heckart,White,Na,Straight,1973,Best Supporting Actress,Butterflies Are Free
+Tatum O'Neal,White,Na,Straight,1974,Best Supporting Actress,Paper Moon
+Ingrid Bergman,White,Na,Straight,1975,Best Supporting Actress,Murder on the Orient Express
+Lee Grant,White,Jewish,Straight,1976,Best Supporting Actress,Shampoo
+Beatrice Straight,White,Na,Straight,1977,Best Supporting Actress,Network
+Vanessa Redgrave,White,Na,Straight,1978,Best Supporting Actress,Julia
+Maggie Smith,White,Na,Straight,1979,Best Supporting Actress,California Suite
+Meryl Streep,White,Na,Straight,1980,Best Supporting Actress,Kramer vs. Kramer
+Mary Steenburgen,White,Na,Straight,1981,Best Supporting Actress,Melvin and Howard
+Maureen Stapleton,White,Roman Catholic,Straight,1982,Best Supporting Actress,Reds
+Jessica Lange,White,Na,Straight,1983,Best Supporting Actress,Tootsie
+Linda Hunt,White,Na,Na,1984,Best Supporting Actress,The Year of Living Dangerously
+Peggy Ashcroft,White,Agnostic,Straight,1985,Best Supporting Actress,A Passage to India
+Anjelica Huston,White,Na,Straight,1986,Best Supporting Actress,Prizzi's Honor
+Dianne Wiest,White,Na,Straight,1987,Best Supporting Actress,Hannah and Her Sisters
+Olympia Dukakis,White,Na,Straight,1988,Best Supporting Actress,Moonstruck
+Geena Davis,White,Congregationalist,Straight,1989,Best Supporting Actress,The Accidental Tourist
+Brenda Fricker,White,Na,Straight,1990,Best Supporting Actress,My Left Foot
+Whoopi Goldberg,Black,Atheist,Straight,1991,Best Supporting Actress,Ghost
+Mercedes Ruehl,Hispanic,Roman Catholic,Straight,1992,Best Supporting Actress,The Fisher King
+Marisa Tomei,White,Na,Straight,1993,Best Supporting Actress,My Cousin Vinny
+Anna Paquin,White,Na,Bisexual,1994,Best Supporting Actress,The Piano
+Dianne Wiest,White,Na,Straight,1995,Best Supporting Actress,Bullets Over Broadway
+Mira Sorvino,White,Atheist,Straight,1996,Best Supporting Actress,Mighty Aphrodite
+Juliette Binoche,White,Na,Straight,1997,Best Supporting Actress,The English Patient
+Kim Basinger,White,Na,Straight,1998,Best Supporting Actress,L.A. Confidential
+Judi Dench,White,Quaker,Straight,1999,Best Supporting Actress,Shakespeare in Love
+Angelina Jolie,White,Buddhist,Bisexual,2000,Best Supporting Actress,"Girl, Interrupted"
+Marcia Gay Harden,White,Na,Straight,2001,Best Supporting Actress,Pollock
+Jennifer Connelly,White,Jewish,Straight,2002,Best Supporting Actress,A Beautiful Mind
+Catherine Zeta-Jones,White,Roman Catholic,Straight,2003,Best Supporting Actress,Chicago
+Ren̩e Zellweger,White,Na,Straight,2004,Best Supporting Actress,Cold Mountain
+Cate Blanchett,White,Na,Straight,2005,Best Supporting Actress,The Aviator
+Rachel Weisz,White,Jewish,Straight,2006,Best Supporting Actress,The Constant Gardener
+Jennifer Hudson,Black,Baptist,Straight,2007,Best Supporting Actress,Dreamgirls
+Tilda Swinton,White,Na,Straight,2007,Best Supporting Actress,Michael Clayton
+Penelope Cruz,Hispanic,Buddhist,Straight,2009,Best Supporting Actress,Vicky Cristina Barcelona
+Mo'Nique,Black,Na,Straight,2010,Best Supporting Actress,Precious
+Melissa Leo,White,Na,Straight,2011,Best Supporting Actress,The Fighter
+Octavia Spencer,Black,Na,Na,2012,Best Supporting Actress,The Help
+Anne Hathaway,White,Christian,Straight,2013,Best Supporting Actress,Les Mis̩rables
+Lupita Nyong'o,Black,Na,Na,2014,Best Supporting Actress,12 Years a Slave
+Billy Wilder,White,Jewish,Straight,1961,Best Director,The Apartment
+Ginger Rogers,White,Christian Science,Straight,1941,Best Actress,Kitty Foyle
+Tom Hanks,White,Born-Again Christian,Straight,1994,Best Actor,Philadelphia
+Michael Cimino,White,Na,Straight,1979,Best Director,The Deer Hunter
+Mary Astor,White,Roman Catholic,Straight,1942,Best Supporting Actress,The Great Lie
+Angelina Jolie,White,Buddhist,Bisexual,2000,Best Supporting Actress,"Girl, Interrupted"
+Lee Grant,White,Jewish,Straight,1976,Best Supporting Actress,Shampoo
+Anne Revere,White,Na,Straight,1946,Best Supporting Actress,National Velvet
+Faye Dunaway,White,Roman Catholic,Straight,1977,Best Actress,Network
+Van Heflin,White,Na,Straight,1943,Best Supporting Actor,Johnny Eager
+Joanne Woodward,White,Na,Straight,1958,Best Actress,The Three Faces of Eve
+Gary Cooper,White,Roman Catholic,Straight,1953,Best Actor,High Noon
+Elizabeth Taylor,White,Jewish,Straight,1967,Best Actress,Who's Afraid of Virginia Woolf?
+Hilary Swank,White,Na,Straight,2005,Best Actress,Million Dollar Baby
+Hilary Swank,White,Na,Straight,2005,Best Actress,Million Dollar Baby
+Gwyneth Paltrow,White,Jewish,Straight,1999,Best Actress,Shakespeare in Love
+Jack Albertson,White,Na,Na,1969,Best Supporting Actor,The Subject Was Roses
+Mo'Nique,Black,Na,Straight,2010,Best Supporting Actress,Precious
+Marcia Gay Harden,White,Na,Straight,2001,Best Supporting Actress,Pollock
+Maggie Smith,White,Na,Straight,1970,Best Actress,The Prime of Miss Jean Brodie
+Rachel Weisz,White,Jewish,Straight,2006,Best Supporting Actress,The Constant Gardener
+Danny Boyle,White,Roman Catholic,Straight,2009,Best Director,Slumdog Millionaire
+Jason Robards,White,Na,Straight,1977,Best Supporting Actor,All the President's Men
+James Coburn,White,Na,Straight,1999,Best Supporting Actor,Affliction
+John Huston,White,Na,Straight,1949,Best Director,The Treasure of the Sierra Madre
