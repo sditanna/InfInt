@@ -1,0 +1,2 @@
+# InfInt
+Information Integration course
